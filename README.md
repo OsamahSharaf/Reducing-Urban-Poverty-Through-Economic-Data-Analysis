@@ -62,4 +62,5 @@ Project Structure
 Acknowledgements
 
 The data used in this project is sourced from https://www.kaggle.com/datasets/theworldbank/poverty-and-equity-database.
+
 Matplotlib and Seaborn for providing excellent visualization tools.
